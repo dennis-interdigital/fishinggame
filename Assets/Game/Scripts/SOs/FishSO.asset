@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4264da9717259b74795f1ecf51062c39, type: 3}
+  m_Name: FishSO
+  m_EditorClassIdentifier: 
+  fishDBs:
+  - rarity: 0
+    fishName: Guppy
+  - rarity: 0
+    fishName: Minnow
+  - rarity: 0
+    fishName: Goldfish
+  - rarity: 0
+    fishName: Sardine
+  - rarity: 0
+    fishName: Perch
+  - rarity: 0
+    fishName: Carp
+  - rarity: 1
+    fishName: Herring
+  - rarity: 1
+    fishName: Clownfish
+  - rarity: 1
+    fishName: Catfish
+  - rarity: 1
+    fishName: Mackerel
+  - rarity: 1
+    fishName: Koi
+  - rarity: 1
+    fishName: Barracuda
+  - rarity: 2
+    fishName: Angelfish
+  - rarity: 2
+    fishName: Lionfish
+  - rarity: 2
+    fishName: Salmon
+  - rarity: 2
+    fishName: Stingray
+  - rarity: 3
+    fishName: Marlin
+  - rarity: 3
+    fishName: Tuna
+  - rarity: 3
+    fishName: Manta Ray
+  - rarity: 3
+    fishName: Sailfish
+  - rarity: 4
+    fishName: Tiger Shark
+  - rarity: 4
+    fishName: Sunfish
+  - rarity: 4
+    fishName: Giant Squid
+  - rarity: 5
+    fishName: Megalodon
+  - rarity: 5
+    fishName: Leviathan
+  - rarity: 5
+    fishName: Ghost Shark
