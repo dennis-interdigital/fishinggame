@@ -82,7 +82,7 @@ GameObject:
   - component: {fileID: 46451097400492059}
   - component: {fileID: 6121273368165404390}
   - component: {fileID: 7114400462337053394}
-  - component: {fileID: 1642343536329216895}
+  - component: {fileID: 7345859381698362404}
   m_Layer: 5
   m_Name: Canvas (UIManager)
   m_TagString: Untagged
@@ -174,7 +174,7 @@ MonoBehaviour:
   m_BlockingMask:
     serializedVersion: 2
     m_Bits: 4294967295
---- !u!114 &1642343536329216895
+--- !u!114 &7345859381698362404
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -183,14 +183,18 @@ MonoBehaviour:
   m_GameObject: {fileID: 3275108989528889063}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 0c49a80864fc80e4f9303f3f66276734, type: 3}
+  m_Script: {fileID: 11500000, guid: 49b5e6c98fbabb749a3a5b2566990dad, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   rtUiContainer: {fileID: 4910729277817150866}
   rtPopupContainer: {fileID: 4012798169117922181}
-  sampleUIPrefab: {fileID: 7585107495103919308, guid: eecf182fd2216894c96d98bc3d4615d4, type: 3}
-  gameplayUIPrefab: {fileID: 1118679404804431671, guid: 3d58a70e80e48e24c9808c005e96b78b, type: 3}
-  samplePopupPrefab: {fileID: 6037278294881617351, guid: 13c696d399f24a544a615015a4659b89, type: 3}
-  resultPopupPrefab: {fileID: 2138811427701933872, guid: f442953ae9768f144908d7e6b345bd6b, type: 3}
+  sampleUIPrefab: {fileID: 7585107495103919308, guid: eecf182fd2216894c96d98bc3d4615d4,
+    type: 3}
+  gameplayUIPrefab: {fileID: 1118679404804431671, guid: 3d58a70e80e48e24c9808c005e96b78b,
+    type: 3}
+  samplePopupPrefab: {fileID: 6037278294881617351, guid: 13c696d399f24a544a615015a4659b89,
+    type: 3}
+  resultPopupPrefab: {fileID: 2138811427701933872, guid: f442953ae9768f144908d7e6b345bd6b,
+    type: 3}
   currentUIState: 0
   currentActiveUI: {fileID: 0}
