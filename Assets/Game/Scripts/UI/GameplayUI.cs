@@ -1,5 +1,3 @@
-using System.Collections;
-using System.Collections.Generic;
 using TMPro;
 using UnityEngine;
 using UnityEngine.UI;
@@ -44,7 +42,7 @@ namespace FishingGame
             {
                 case FishStatus.Red: imgFishStatus.color = Color.red; break;
                 case FishStatus.Yellow: imgFishStatus.color = Color.yellow; break;
-                case FishStatus.Green: imgFishStatus.color= Color.green; break;
+                case FishStatus.Green: imgFishStatus.color = Color.green; break;
             }
 
             rotateSpeed = fishingController.currReelRotationSpeed;
